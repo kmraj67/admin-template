@@ -1,0 +1,8 @@
+/* Login Container Start */
+.login-container .form-control {
+    height: 40px;
+}
+.login-container .form-horizontal {
+    margin-top: 20px;
+}
+/* Login Container End */
